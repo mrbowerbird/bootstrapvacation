@@ -1387,7 +1387,7 @@ a.bg-success:focus {
   background-color: #c1e2b3;
 }
 .bg-info {
-  background-color: #d9edf7;
+  background-color: #ffad33;
 }
 a.bg-info:hover,
 a.bg-info:focus {
@@ -1491,7 +1491,7 @@ blockquote .small {
   display: block;
   font-size: 80%;
   line-height: 1.42857143;
-  color: #777;
+  color: #331a00;
 }
 blockquote footer:before,
 blockquote small:before,
@@ -4960,7 +4960,7 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eee;
+  background-color: #e6ff99;
 }
 .jumbotron h1,
 .jumbotron .h1 {
